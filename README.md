@@ -1,4 +1,6 @@
-﻿# 星点录屏
+﻿<img width="893" height="823" alt="xingdianluping" src="https://github.com/user-attachments/assets/cb923faf-4611-4914-b174-0485bf398aba" />
+ 
+ # 星点录屏
 
 一款免费、闭源的 Windows 桌面录屏工具。原生分辨率高清录制、HEVC 高压缩小文件，**点击前 1 秒自动放大点击位置**——讲解操作时不用事后二次剪辑。
 
@@ -54,9 +56,10 @@
 ## 反馈
 
 - 问题与建议请发在本仓库 **Issues**。
-- **QQ 交流群**：https://qm.qq.com/q/pP3V4W2n2q
+- **QQ 交流群**：<img width="893" height="823" alt="xingdianluping" src="https://github.com/user-attachments/assets/427f8d80-3d84-4654-b814-685e924a5dfe" />
 
 ---
 
 © 2026 星点录屏 项目著作权人。保留所有权利。
+
 
