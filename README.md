@@ -56,8 +56,7 @@
 ## 反馈
 
 - 问题与建议请发在本仓库 **Issues**。
-- **QQ 交流群**：<img width="893" height="823" alt="xingdianluping" src="https://github.com/user-attachments/assets/427f8d80-3d84-4654-b814-685e924a5dfe" />
-
+- 点击链接加入群聊【星点录屏交流群】：https://qm.qq.com/q/pCe6QtECFE
 ---
 
 © 2026 星点录屏 项目著作权人。保留所有权利。
